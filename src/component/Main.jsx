@@ -301,6 +301,12 @@ const Main = () => {
       </p>
     </div>
   </div>
+
+  <div className="row bg-secondary text-white text-center p-2">
+    <div className="col-12">
+      <p>Copyright 2005-2023 by Programming Hub By Rights Resevred</p>
+    </div>
+  </div>
 </div>
 
     </>
