@@ -51,7 +51,7 @@ const Slider = () => {
       </div>
       <div className="carousel-item">
         <img
-          src={img2}
+          src={img2}  
           className="d-block w-100"
           alt="..."
           style={{ height: "80vh" }}
